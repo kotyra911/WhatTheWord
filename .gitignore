@@ -1,5 +1,9 @@
-# Секреты
+# Переменные среды
 *.env
+
+# VS Code
+.idea/
+.vscode/
 
 # Python
 __pycache__/
