@@ -12,7 +12,3 @@ def ask_ai(prompt: str) -> str:
 
 
 prompt = get_prompt("English", "Привет")
-
-answer = ask_ai(prompt)
-
-print("AI ответ:", answer)
